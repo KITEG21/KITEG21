@@ -52,7 +52,11 @@
 
 <h2 align="left">🌐 Connect with Me</h2>
 
-<p align="left">
-  <!-- Add your social links here, for example: -->
-  <!-- <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> -->
-</p>
+<div align="left">
+  <a href="crowngamesteam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/gabriel-esteban-rodríguez-delgado-483871356" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
