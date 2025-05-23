@@ -1,13 +1,13 @@
 <h2 align="left">Ciao 👋!!</h2>
 
 <p align="left">
-  👋 Hi, I'm **Gabriel E. Rodríguez Delgado**<br>
-  🐧 From **La Habana, Cuba**<br>
-  🎓 Studying **Software Engineering (Ingeniería Informática)** at **CUJAE**<br>
-  🔭 Currently working on **ASP.NET API development**<br>
-  🌱 Continuously learning and improving my skills in backend development<br>
+  👋 Hi, I'm Gabriel E. Rodríguez Delgado<br>
+  🐧 From La Habana, Cuba<br>
+  🎓 Studying Software Engineering at CUJAE<br>
+  🔭 Currently working on frontend with React<br>
+  🌱 Continuously learning and improving my skills in web development<br>
   👯 Looking to collaborate on projects that challenge me and help me grow<br>
-  🌍 Languages: Fluent in **English**, **Italian**, and **Spanish** — previously worked as a translator
+  🌍 Languages: Fluent in English, Italian, and Spanish — previously worked as a translator
 </p>
 
 ---
