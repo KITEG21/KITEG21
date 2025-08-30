@@ -4,7 +4,7 @@
   👋 Hi, I'm Gabriel E. Rodríguez Delgado<br>
   🐧 From La Habana, Cuba<br>
   🎓 Studying Software Engineering at CUJAE<br>
-  🔭 Currently working on frontend with React<br>
+  🔭 Currently working on backend with .NET<br>
   🌱 Continuously learning and improving my skills in web development<br>
   👯 Looking to collaborate on projects that challenge me and help me grow<br>
   🌍 Languages: Fluent in English, Italian, and Spanish — previously worked as a translator
