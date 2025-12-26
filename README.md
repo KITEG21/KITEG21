@@ -12,12 +12,12 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KITEG21&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KITEG21&layout=compact&langs_count=5&theme=vue-dark" height="150" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=KITEG21&theme=github_dark_dimmed)
+![](https://nirzak-streak-stats.vercel.app/?user=KITEG21&theme=github_dark_dimmed)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KITEG21&layout=compact&theme=github_dark_dimmed)
+
 
 ---
 
