@@ -1,62 +1,56 @@
-<h2 align="left">Ciao 👋!!</h2>
+# Hi, I'm Gabriel Rodríguez 👋
 
-<p align="left">
-  👋 Hi, I'm Gabriel E. Rodríguez Delgado<br>
-  🐧 From La Habana, Cuba<br>
-  🎓 Studying Software Engineering at CUJAE<br>
-  🔭 Currently working on backend with .NET<br>
-  🌱 Continuously learning and improving my skills in web development<br>
-  👯 Looking to collaborate on projects that challenge me and help me grow<br>
-  🌍 Languages: Fluent in English, Italian, and Spanish — previously worked as a translator
-</p>
+### Backend Software Engineer | C#/.NET | Distributed Systems | Technical Leadership
+
+I'm a Backend Software Engineer and Tech Lead with **5+ years of experience** building backend applications, REST APIs, and distributed systems using C# and .NET.
+
+I enjoy designing maintainable architectures, solving complex engineering problems, and building reliable services. My experience includes microservices, event-driven workflows, database optimization, and technical leadership across multi-service projects.
+
+* 🔭 **Currently focused on:** Backend engineering, .NET, and distributed systems
+* 🏗️ **Architecture:** Microservices, Clean Architecture, CQRS, Domain-Driven Design
+* ⚙️ **Engineering:** REST APIs, event-driven systems, asynchronous processing, performance optimization
+* ☁️ **Infrastructure:** Docker, Azure, CI/CD, and message brokers
+* 🤝 **Interested in:** Backend engineering, distributed systems, developer tools, and AI-assisted software engineering
+* 🌍 **Languages:** Spanish (Native), English (C1), Italian (Intermediate)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & Frameworks**
+
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `FastEndpoints`
+
+**Architecture & Engineering**
+
+`Microservices` · `Clean Architecture` · `CQRS` · `Domain-Driven Design` · `SOLID` · `Saga Pattern` · `REST APIs`
+
+**Databases & Messaging**
+
+`PostgreSQL` · `MySQL` · `Oracle` · `RabbitMQ`
+
+**Cloud & DevOps**
+
+`Azure` · `Docker` · `Git` · `GitHub Actions` · `.NET Aspire`
+
+**Additional Technologies**
+
+`Python` · `FastAPI` · `JavaScript` · `TypeScript` · `React` · `Next.js`
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KITEG21&theme=github_dark_dimmed)
-![](https://nirzak-streak-stats.vercel.app/?user=KITEG21&theme=github_dark_dimmed)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KITEG21&layout=compact&theme=github_dark_dimmed)
-
-
----
-
-<h2 align="left">🛠️ Technologies</h2>
-
-<h3 align="left">Backend</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-</div>
-
-<h3 align="left">Frontend</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-</div>
-
-<h3 align="left">Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="Trello" />
-</div>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KITEG21&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KITEG21&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Most used programming languages" />
+</p>
 
 ---
 
-<h2 align="left">🌐 Connect with Me</h2>
+## 🌐 Connect with Me
 
-<div align="left">
-  <a href="crowngamesteam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/gabriel-esteban-rodríguez-delgado-483871356" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+* 💼 LinkedIn: https://www.linkedin.com/in/gabriel-esteban-rd/
+* 💻 GitHub: https://github.com/KITEG21
+* 🌍 Website: https://gabrielrd.me
+* 📧 Email: [gabriel.rodriguezest@gmail.com](mailto:gabriel.rodriguezest@gmail.com)
