@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | C#/.NET | Distributed Systems | Technical Leadership
 
-I'm a Backend Software Engineer and Tech Lead with **5+ years of experience** building backend applications, REST APIs, and distributed systems using C# and .NET.
+I'm a Backend Software Engineer with **5+ years of experience** building backend applications, REST APIs, and distributed systems using C# and .NET.
 
 I enjoy designing maintainable architectures, solving complex engineering problems, and building reliable services. My experience includes microservices, event-driven workflows, database optimization, and technical leadership across multi-service projects.
 
